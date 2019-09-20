@@ -1,3 +1,3 @@
-[submodule "M4GfxSIS"]
+[submodule "Plugins/M4GfxSIS"]
 	path = Plugins/M4GfxSIS
-	url = https://github.com/sheldonrobison/M4GfxSIS
+	url = https://github.com/sheldonrobinson/M4GfxSIS
