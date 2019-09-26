@@ -1,4 +1,4 @@
-// Fill out your copyright notice in the Description page of Project Settings.
+// Copyright 2019 Sheldon Robinson. All Rights Reserved.
 
 #include "M4GfxSISDemo.h"
 #include "Modules/ModuleManager.h"
